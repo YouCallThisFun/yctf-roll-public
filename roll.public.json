@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1788303854255,
-  "generatedAt": "2026-09-01T23:04:14.255Z",
-  "officialCount": 4,
+  "generatedAtMs": 1788304354928,
+  "generatedAt": "2026-09-01T23:12:34.928Z",
+  "officialCount": 5,
   "entries": [
+    {
+      "entryNumber": 5,
+      "winnerDisplayName": "turtlez321123",
+      "episode": "YCTF-0001",
+      "confirmedAtMs": 1788304354927,
+      "confirmedAt": "2026-09-01T23:12:34.927Z"
+    },
     {
       "entryNumber": 4,
       "winnerDisplayName": "turtlez321123",
