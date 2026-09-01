@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1788305449641,
-  "generatedAt": "2026-09-01T23:30:49.641Z",
-  "officialCount": 6,
+  "generatedAtMs": 1788307138238,
+  "generatedAt": "2026-09-01T23:58:58.238Z",
+  "officialCount": 7,
   "entries": [
+    {
+      "entryNumber": 7,
+      "winnerDisplayName": "Zhyn_exe",
+      "episode": "YCTF-0001",
+      "confirmedAtMs": 1788307138236,
+      "confirmedAt": "2026-09-01T23:58:58.236Z"
+    },
     {
       "entryNumber": 6,
       "winnerDisplayName": "Tyger_Butter",
