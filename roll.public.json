@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1789176397879,
-  "generatedAt": "2026-09-12T01:26:37.879Z",
-  "officialCount": 19,
+  "generatedAtMs": 1789177759020,
+  "generatedAt": "2026-09-12T01:49:19.020Z",
+  "officialCount": 20,
   "entries": [
+    {
+      "entryNumber": 20,
+      "winnerDisplayName": "Moko_",
+      "episode": "YCTF-0005",
+      "confirmedAtMs": 1789177759016,
+      "confirmedAt": "2026-09-12T01:49:19.016Z"
+    },
     {
       "entryNumber": 19,
       "winnerDisplayName": "Moko_",
