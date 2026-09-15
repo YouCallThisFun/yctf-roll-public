@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1789436941305,
-  "generatedAt": "2026-09-15T01:49:01.305Z",
-  "officialCount": 22,
+  "generatedAtMs": 1789437843916,
+  "generatedAt": "2026-09-15T02:04:03.916Z",
+  "officialCount": 23,
   "entries": [
+    {
+      "entryNumber": 23,
+      "winnerDisplayName": "BrownPantsGaming",
+      "episode": "YCTF-0006",
+      "confirmedAtMs": 1789437843912,
+      "confirmedAt": "2026-09-15T02:04:03.912Z"
+    },
     {
       "entryNumber": 22,
       "winnerDisplayName": "BrownPantsGaming",
