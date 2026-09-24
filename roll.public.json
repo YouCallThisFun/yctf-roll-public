@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1790214121446,
-  "generatedAt": "2026-09-24T01:42:01.446Z",
-  "officialCount": 32,
+  "generatedAtMs": 1790214918442,
+  "generatedAt": "2026-09-24T01:55:18.442Z",
+  "officialCount": 33,
   "entries": [
+    {
+      "entryNumber": 33,
+      "winnerDisplayName": "purplemonkeyshorts",
+      "episode": "YCTF-0009",
+      "confirmedAtMs": 1790214918436,
+      "confirmedAt": "2026-09-24T01:55:18.436Z"
+    },
     {
       "entryNumber": 32,
       "winnerDisplayName": "sondai_vt",
