@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1790992829543,
-  "generatedAt": "2026-10-03T02:00:29.543Z",
-  "officialCount": 50,
+  "generatedAtMs": 1790993247537,
+  "generatedAt": "2026-10-03T02:07:27.537Z",
+  "officialCount": 51,
   "entries": [
+    {
+      "entryNumber": 51,
+      "winnerDisplayName": "TheyCallMeLiti",
+      "episode": "YCTF-0013",
+      "confirmedAtMs": 1790993247524,
+      "confirmedAt": "2026-10-03T02:07:27.524Z"
+    },
     {
       "entryNumber": 50,
       "winnerDisplayName": "BrownPantsGaming",
