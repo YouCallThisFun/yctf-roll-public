@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1791597332565,
-  "generatedAt": "2026-10-10T01:55:32.565Z",
-  "officialCount": 62,
+  "generatedAtMs": 1791597462061,
+  "generatedAt": "2026-10-10T01:57:42.061Z",
+  "officialCount": 63,
   "entries": [
+    {
+      "entryNumber": 63,
+      "winnerDisplayName": "Tyger_Butter",
+      "episode": "YCTF-0015",
+      "confirmedAtMs": 1791597462050,
+      "confirmedAt": "2026-10-10T01:57:42.050Z"
+    },
     {
       "entryNumber": 62,
       "winnerDisplayName": "purplemonkeyshorts",
