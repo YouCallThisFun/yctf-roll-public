@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1791254716860,
-  "generatedAt": "2026-10-06T02:45:16.860Z",
-  "officialCount": 59,
+  "generatedAtMs": 1791596947653,
+  "generatedAt": "2026-10-10T01:49:07.653Z",
+  "officialCount": 60,
   "entries": [
+    {
+      "entryNumber": 60,
+      "winnerDisplayName": "Tyger_Butter",
+      "episode": "YCTF-0015",
+      "confirmedAtMs": 1791596947643,
+      "confirmedAt": "2026-10-10T01:49:07.643Z"
+    },
     {
       "entryNumber": 59,
       "winnerDisplayName": "BrownPantsGaming",
