@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1791855328035,
-  "generatedAt": "2026-10-13T01:35:28.035Z",
-  "officialCount": 70,
+  "generatedAtMs": 1791855619893,
+  "generatedAt": "2026-10-13T01:40:19.893Z",
+  "officialCount": 71,
   "entries": [
+    {
+      "entryNumber": 71,
+      "winnerDisplayName": "rocketcitykitty",
+      "episode": "YCTF-0016",
+      "confirmedAtMs": 1791855619884,
+      "confirmedAt": "2026-10-13T01:40:19.884Z"
+    },
     {
       "entryNumber": 70,
       "winnerDisplayName": "TheyCallMeLiti",
