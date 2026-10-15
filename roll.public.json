@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1792027164204,
-  "generatedAt": "2026-10-15T01:19:24.204Z",
-  "officialCount": 79,
+  "generatedAtMs": 1792027827578,
+  "generatedAt": "2026-10-15T01:30:27.578Z",
+  "officialCount": 80,
   "entries": [
+    {
+      "entryNumber": 80,
+      "winnerDisplayName": "purplemonkeyshorts",
+      "episode": "YCTF-0017",
+      "confirmedAtMs": 1792027827566,
+      "confirmedAt": "2026-10-15T01:30:27.566Z"
+    },
     {
       "entryNumber": 79,
       "winnerDisplayName": "TheyCallMeLiti",
