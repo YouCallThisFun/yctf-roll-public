@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1792459183009,
-  "generatedAt": "2026-10-20T01:19:43.009Z",
-  "officialCount": 90,
+  "generatedAtMs": 1792459372193,
+  "generatedAt": "2026-10-20T01:22:52.193Z",
+  "officialCount": 91,
   "entries": [
+    {
+      "entryNumber": 91,
+      "winnerDisplayName": "turtlez321123",
+      "episode": "YCTF-0019",
+      "confirmedAtMs": 1792459372178,
+      "confirmedAt": "2026-10-20T01:22:52.178Z"
+    },
     {
       "entryNumber": 90,
       "winnerDisplayName": "rocketcitykitty",
