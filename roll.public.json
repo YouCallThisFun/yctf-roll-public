@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1792805222198,
-  "generatedAt": "2026-10-24T01:27:02.198Z",
-  "officialCount": 103,
+  "generatedAtMs": 1792805772150,
+  "generatedAt": "2026-10-24T01:36:12.150Z",
+  "officialCount": 104,
   "entries": [
+    {
+      "entryNumber": 104,
+      "winnerDisplayName": "sondai_vt",
+      "episode": "YCTF-0019",
+      "confirmedAtMs": 1792805772136,
+      "confirmedAt": "2026-10-24T01:36:12.136Z"
+    },
     {
       "entryNumber": 103,
       "winnerDisplayName": "turtlez321123",
