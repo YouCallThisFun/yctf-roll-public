@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1792461723691,
-  "generatedAt": "2026-10-20T02:02:03.691Z",
-  "officialCount": 100,
+  "generatedAtMs": 1792804735721,
+  "generatedAt": "2026-10-24T01:18:55.721Z",
+  "officialCount": 101,
   "entries": [
+    {
+      "entryNumber": 101,
+      "winnerDisplayName": "purplemonkeyshorts",
+      "episode": "YCTF-0019",
+      "confirmedAtMs": 1792804735702,
+      "confirmedAt": "2026-10-24T01:18:55.702Z"
+    },
     {
       "entryNumber": 100,
       "winnerDisplayName": "purplemonkeyshorts",
