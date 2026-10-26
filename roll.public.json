@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1793054745853,
-  "generatedAt": "2026-10-26T22:45:45.853Z",
+  "generatedAtMs": 1793054754627,
+  "generatedAt": "2026-10-26T22:45:54.627Z",
   "officialCount": 111,
   "entries": [
     {
@@ -22,7 +22,7 @@
     {
       "entryNumber": 109,
       "winnerDisplayName": "TheyCallMeLiti",
-      "episode": "YCTF-0019",
+      "episode": "YCTF-0020",
       "confirmedAtMs": 1792808162310,
       "confirmedAt": "2026-10-24T02:16:02.310Z"
     },
