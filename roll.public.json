@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1793414748874,
-  "generatedAt": "2026-10-31T02:45:48.874Z",
-  "officialCount": 130,
+  "generatedAtMs": 1793415647937,
+  "generatedAt": "2026-10-31T03:00:47.937Z",
+  "officialCount": 131,
   "entries": [
+    {
+      "entryNumber": 131,
+      "winnerDisplayName": "purplemonkeyshorts",
+      "episode": "YCTF-0022",
+      "confirmedAtMs": 1793415647920,
+      "confirmedAt": "2026-10-31T03:00:47.920Z"
+    },
     {
       "entryNumber": 130,
       "winnerDisplayName": "turtlez321123",
