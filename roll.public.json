@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.5",
-  "generatedAtMs": 1793411946735,
-  "generatedAt": "2026-10-31T01:59:06.735Z",
-  "officialCount": 126,
+  "generatedAtMs": 1793412210919,
+  "generatedAt": "2026-10-31T02:03:30.919Z",
+  "officialCount": 127,
   "entries": [
+    {
+      "entryNumber": 127,
+      "winnerDisplayName": "turtlez321123",
+      "episode": "YCTF-0022",
+      "confirmedAtMs": 1793412210906,
+      "confirmedAt": "2026-10-31T02:03:30.906Z"
+    },
     {
       "entryNumber": 126,
       "winnerDisplayName": "TheyCallMeLiti",
