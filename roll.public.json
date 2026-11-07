@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.7",
-  "generatedAtMs": 1794020129067,
-  "generatedAt": "2026-11-07T02:55:29.067Z",
-  "officialCount": 152,
+  "generatedAtMs": 1794020234504,
+  "generatedAt": "2026-11-07T02:57:14.504Z",
+  "officialCount": 153,
   "entries": [
+    {
+      "entryNumber": 153,
+      "winnerDisplayName": "BrownPantsGaming",
+      "episode": "YCTF-0024",
+      "confirmedAtMs": 1794020234471,
+      "confirmedAt": "2026-11-07T02:57:14.471Z"
+    },
     {
       "entryNumber": 152,
       "winnerDisplayName": "turtlez321123",
