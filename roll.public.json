@@ -1,10 +1,17 @@
 {
   "schemaVersion": 1,
   "engineVersion": "0.5.8",
-  "generatedAtMs": 1795229253373,
-  "generatedAt": "2026-11-21T02:47:33.373Z",
-  "officialCount": 208,
+  "generatedAtMs": 1795229354004,
+  "generatedAt": "2026-11-21T02:49:14.004Z",
+  "officialCount": 209,
   "entries": [
+    {
+      "entryNumber": 209,
+      "winnerDisplayName": "Tyger_Butter",
+      "episode": "YCTF-0028",
+      "confirmedAtMs": 1795229353979,
+      "confirmedAt": "2026-11-21T02:49:13.979Z"
+    },
     {
       "entryNumber": 208,
       "winnerDisplayName": "turtlez321123",
